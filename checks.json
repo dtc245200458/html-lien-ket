@@ -1,0 +1,38 @@
+{
+  "structure": "passed",
+  "menu_simulation": "passed",
+  "css_brace_balance": "passed",
+  "contrast": [
+    {
+      "text": "#ffffff",
+      "background": "#1255a3",
+      "contrast": 7.36
+    },
+    {
+      "text": "#132c45",
+      "background": "#ffffff",
+      "contrast": 14.25
+    },
+    {
+      "text": "#536778",
+      "background": "#f3f7fb",
+      "contrast": 5.45
+    },
+    {
+      "text": "#d5e2ee",
+      "background": "#102d50",
+      "contrast": 10.54
+    },
+    {
+      "text": "#ffab66",
+      "background": "#102d50",
+      "contrast": 7.45
+    },
+    {
+      "text": "#b8dcff",
+      "background": "#102d50",
+      "contrast": 9.73
+    }
+  ],
+  "browser_visual_qa": "not performed"
+}
